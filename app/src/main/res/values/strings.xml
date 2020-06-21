@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Challenge</string>
+    <string name="add_contact">ADD CONTACT</string>
+    <string name="contacts_app">Contacts App</string>
+    <string name="please_enter_your_name">Please enter your Name</string>
+    <string name="please_enter_your_phone_android_string_emptyphonenumber">Please enter your phone @android:string/emptyPhoneNumber</string>
+    <string name="please_enter_your_website">Please enter your website</string>
+    <string name="please_enter_your_location">Please enter your location</string>
+</resources>
